@@ -1,2 +1,2 @@
 # SwiftPro
-Viva Swift!
+Viva Swift en collaboration!
